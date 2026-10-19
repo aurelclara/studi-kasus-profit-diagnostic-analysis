@@ -50,4 +50,4 @@ Data yang digunakan adalah **simulasi** (`np.random.seed(123)`, 2.000 transaksi)
 
 ## Lisensi
 
-Proyek ini dibuat untuk keperluan pembelajaran.
+Kuliah tamu Informatics Practitioner Lecture Series 2026, Andria Arisal, BRIN.
